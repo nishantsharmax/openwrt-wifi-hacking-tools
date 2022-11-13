@@ -6,3 +6,4 @@ horst
 aircrack-ng
 macchanger
 python3 scapy
+reaver
